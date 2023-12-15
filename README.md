@@ -17,3 +17,5 @@ Personalized the footer.
 The changes made to the CSS Codebase:
 Rearranged the style for hierarchy and correlation with html.
 Regrouped the sections that had the same style properties.
+
+All the changes have been commited duly.

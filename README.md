@@ -22,6 +22,6 @@ All the changes have been commited duly.
 
 URL of deployed application: https://victoriadeyemi.github.io/firstchallengebootcamp/
 URL of Github repository: https://github.com/victoriadeyemi/firstchallengebootcamp
-Screenshot of deployed application: ![Screenshot of deployed application](/assets/images/Deployed-bootstrap-portfolio-application.png)
+Screenshot of deployed application: ![Screenshot of deployed application](/assets/images/Deployed-application.png)
 
 
